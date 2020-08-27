@@ -1,0 +1,14 @@
+{
+  "name": "rpg-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for rpg",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
