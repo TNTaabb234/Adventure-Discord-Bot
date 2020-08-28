@@ -6,8 +6,8 @@
   "scripts": {
     
   },
-  "author": "",
-  "license": "ISC",
+  "author": "TNT, Mokoi Mila",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^12.3.1"
   }
