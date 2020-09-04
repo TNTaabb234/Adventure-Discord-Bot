@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "A Discord bot for rpg",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "author": "TNT, Mokoi Mila",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^12.3.1",
+    "sqlite3": "^5.0.0"
   }
 }
